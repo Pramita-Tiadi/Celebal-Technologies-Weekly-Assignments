@@ -1,45 +1,16 @@
-# Tesla Deliveries & Production Data Analysis (2015–2025)
+# Customer Intelligence System
 
-## Overview
+This project performs customercountry intelligence using Machine Learning.
 
-This project develops a complete end-to-end Machine Learning pipeline using Tesla's delivery and production dataset from 2015–2025.
-
-## Features
+Algorithms Used
 
 - Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Linear Regression
-- Ridge Regression
-- Lasso Regression
-- Hyperparameter Tuning
-- Time Series Forecasting
-- Model Evaluation
+- PCA
+- KMeans
+- DBSCAN
+- Random Forest
+- XGBoost
 
-## Technologies Used
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Joblib
-
-## Machine Learning Models
-
-- Linear Regression
-- Ridge Regression
-- Lasso Regression
-
-## Evaluation Metrics
-
-- MAE
-- RMSE
-- R² Score
-
-## Output
-
-The best model is saved as:
-
-tesla_delivery_prediction_model.pkl
+Dataset-Country-data.csv
+Language-Python
+Platform-Google Colab
